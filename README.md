@@ -148,9 +148,9 @@ Publish the website in the given URL.
 </body>
 
 </html>
-
+```
 ## OUTPUT:
-###Output
+
 ![output](./static/img/outputfull1.png)
 
 ![output](./static/img/outputfull2.png)
