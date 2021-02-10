@@ -165,4 +165,4 @@ Publish the website in the given URL.
 ![output](./static/img/labreport.png)
 
 ## RESULT:
-Thus website is designed for chip manufacturing company and is hosted in URL http://kumaran.student.saveetha.in:8000/productsresponsive/. HTML code is validated
+Thus website is designed for chip manufacturing company and is hosted in URL http://kumaran.student.saveetha.in:8000/responsivepage. HTML code is validated
